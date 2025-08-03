@@ -1,4 +1,6 @@
 # 📘 Assignment: HTML5 + Accessibility & SEO Basics
+#NOTE ! Please Ignore the Hackathon.css file i miss uploaded it here 
+thank you.
 
 ## Overview
 
